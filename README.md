@@ -1,25 +1,16 @@
-# 🌿 Team GreenFrontier
 
-Welcome to the collaboration space for **Team GreenFrontier** – Group 02 of the
-MIT Emerging Talent program __CDSP.
+# LaPerle_HT
 
-We are a team of aspiring data scientists working together to build strong
- collaboration skills, grow through shared learning, and prepare for
-  impactful data science projects. Our focus is on clear communication,
-   mutual respect, and continuous development as a team.
+We are a team of dedicated and aspiring haitian data scientists
+committed to using digital tools for positive change in our country.
+Through this project, we seek to transform haiti's global image, highlight its cultural and natural richness 
+and promote sustainable tourism by leveraging modern difgital technologies, data analysis and community-driven insights.
 
-Stay tuned for updates as we define and begin our project journey!
+## The team members: 
 
-## The team member comprises
+Pierre Kenley MERVIL
 
-Mohamed Tilal
+Kervens Hubert
 
-Ridwan Ayinde
+Cliford Exael
 
-Said Ibrahim
-
-Safiya Hashimi
-
-Mervil Pierre Kenley
-
-Mithchell Lawensky Cenatus
