@@ -1,9 +1,10 @@
 
-# LAPERLE - GROUP NORMS AND COLLABORATIVE
+# LAPERLE_HT - GROUP NORMS AND COLLABORATIVE
 
 ## 1. Purpose
 
-Our goal is to foster a collaborative space where every participant feels respected,
+Our goal is to foster a collaborative space where every
+participant feels respected,
 informed, and motivated to engage.
 We aim to build a culture of shared ownership and mutual support.
 
