@@ -50,4 +50,4 @@ Create reproducible workflows for data loading, cleaning, and modeling through
 modularized code and versioned notebooks.
 
 Apply data science to real-world questions—especially related to education, policy,
-or social outcomes—and document insights for both technical and non-technical audiences.
+or social outcomes, and document insights for both technical and non-technical audiences.
