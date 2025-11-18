@@ -1,0 +1,61 @@
+
+# Constraints
+
+This document outlines different constraints under which the project is
+implemented.These constraints can be external involuntary, internal
+involuntary and internal voluntary that impact
+planning, execution and collaboration of the project
+
+## External Constraints
+
+### ⏳ Deadlines
+
+• Each milestone should be done separately and tag after doing it.
+The deadline should be respected.Time waiting for reviewing can
+complicated the things.  
+• We are working in different time zones. That makes things difficult sometimes.
+
+### 🌐 The situation in some places
+
+• Some places don’t have stable internet connection all the time
+• The current political and social situation in the country of one of
+the members of group affects the planning and project execution sometimes.  
+
+### 📊 Data Access Constraints
+
+• Find relevant datasets on Haiti is challenging due to licensing or usage restrictions.
+
+## 🔐 Internal Involuntary Constraints
+
+Constraints that come from within the team but not intentionally.
+Often, related to availability and limited resources.
+
+### 🧠 Skill Gaps
+
+• In the group, we have different levels of experience in the field.
+But we miss a lot of knowledge to navigate the field easily.
+
+### 🚨 Unexpected Interruptions
+
+• Illness, emergencies, or personal events may impact participation.
+
+## 🧭 Internal Voluntary Constraints
+
+Team-agreed practices that support project quality, collaboration and learning.
+
+### 🙋 Task Preference
+
+• Members can express task preferences based on interest and learning goals.
+• Flexibility is encouraged to support cross-learning with peer help.
+
+### ✅ Review Checklist
+
+• All work must be reviewed before merging into the main branch.
+• A shared checklist ensures code quality and encourages helpful feedback.
+
+### 🔁 GitHub & Version Control Constraints
+
+• Code must be regularly committed to GitHub.
+• Use feature branches for separate tasks or features.
+• Pull requests (PRs) are mandatory for merges.
+• Branch names must be descriptive and relevant to the task/problem.
