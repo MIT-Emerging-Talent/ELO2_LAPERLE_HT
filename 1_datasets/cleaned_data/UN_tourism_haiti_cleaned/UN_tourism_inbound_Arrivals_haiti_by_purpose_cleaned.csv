@@ -1,4 +1,4 @@
-purpose_of_visites,country_receiving,where_tourist_from,year,number_of_tourist_by_purpose,unit
+purpose_of_visites,country_receiving,where_tourist_from,year,number_of_tourist_by_purpose,unit_thousans_trips
 business,Haiti,World,1995,26.0,thousand trips
 business,Haiti,World,1997,27.0,thousand trips
 business,Haiti,World,1998,27.0,thousand trips
