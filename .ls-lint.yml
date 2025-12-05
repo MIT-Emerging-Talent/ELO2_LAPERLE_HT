@@ -19,3 +19,6 @@ ls:
   .:
     .*/:
       pascalcase: true
+
+    ignore:
+      - 1_datasets/raw_data/**
