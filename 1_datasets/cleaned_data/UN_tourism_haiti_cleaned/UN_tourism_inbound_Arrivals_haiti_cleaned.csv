@@ -1,4 +1,4 @@
-type_of_visitors,country_receiving,where_tourist_from,year,number_of_tourist,unit
+type_of_visitors,country_receiving,where_tourist_from,year,number_of_tourist,unit_thousand_trips
 excursionists,Haiti,World,1995,225.0,thousand trips
 excursionists,Haiti,World,1996,250.0,thousand trips
 excursionists,Haiti,World,1997,238.0,thousand trips
