@@ -18,7 +18,10 @@ ignore:
 ls:
   .:
     .*/:
-      pascalcase: true
+      snakecase: true
 
+# plus bas…
+ls:
+  .:
     ignore:
       - 1_datasets/raw_data/**
