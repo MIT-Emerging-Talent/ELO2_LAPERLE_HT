@@ -22,10 +22,10 @@ Other Caribbean countries prove it every single day.
 
 ### Success stories next door (they didn’t wait for perfect peace)
 
-| Dominican Republic       | Poverty and crime in many zones|
-|**10+ million visitors** – Caribbean #1 |
-| Jamaica                  | Well-known gang violence in Kingston & elsewhere |
-|**4+ million visitors & growing**   |
+**Dominican Republic** - Poverty and crime in many zones **10+ million visitors**
+
+**Jamaica** - Well-known gang violence in Kingston & elsewhere **4+ million**
+**visitors & growing**
 
 Their recipe is simple and proven:  
 **Build and fiercely protect specific tourism zones**
