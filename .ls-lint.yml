@@ -21,3 +21,10 @@ ignore:
   - data
   - dist
   - build
+
+rules:
+  some_rule: "true"   # string entre guillemets
+ignore:
+  - ".venv/"
+
+description: "Check code formatting: true/false"
