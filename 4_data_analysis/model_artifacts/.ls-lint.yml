@@ -1,0 +1,23 @@
+ls:
+  .dir: snake_case
+  .*: snake_case
+  .md: snake_case | regex:[0-9A-Z\-]+
+  .txt: snake_case | kebab-case
+  .yml: snake_case | kebab-case
+  .ipynb: snake_case
+  .csv: snake_case
+  .py: snake_case
+
+ignore:
+  - .git
+  - .github
+  - .vscode
+  - .ruff_cache
+  - .pytest_cache
+  - __pycache__
+  - .venv
+  - **/site-packages/**
+  - 1_datasets
+  - data
+  - dist
+  - build
