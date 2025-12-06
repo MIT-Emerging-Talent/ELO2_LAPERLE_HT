@@ -21,3 +21,7 @@ ignore:
   - __pycache__
   - .ls-lint.yml
   - .markdownlint.yml
+
+
+rules:
+  some_rule: "true"
