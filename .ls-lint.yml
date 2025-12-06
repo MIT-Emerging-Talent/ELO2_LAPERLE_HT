@@ -9,9 +9,11 @@ ignore:
   - .git
   - .github
   - .vscode
+  - .venv
   - venv
   - .ruff_cache
   - .pytest_cache
   - __pycache__
   - .ls-lint.yml
-  - .markdownlint.yml
+  - .ls-lint
+  - .ls
