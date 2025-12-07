@@ -14,7 +14,7 @@ image, highlight its cultural,natural beauty
 and promote sustainable tourism by using
 modern digital technologies, data analysis and
 community-driven insights all that on a website.
-![Haiti_beauty](https://github.com/MIT-Emerging-Talent/ELO2_LAPERLE_HT/blob/main/notes/discovering-haiti.jpg)
+![Haiti_beauty](https://github.com/MIT-Emerging-Talent/ELO2_LAPERLE_HT/blob/main/notes/video_haiti.mp4)
 
 ## Team members
 
