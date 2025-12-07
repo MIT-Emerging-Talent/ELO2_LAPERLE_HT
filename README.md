@@ -36,7 +36,7 @@ expenditures. Food insecurity and unemployment are increasing day by
 day. Yet, the tourism sector remains neglected, and the country's
 image is constantly tarnished online and internationally. As a
 result, tourism stagnates in Haiti, despite strong growth in the
-Caribbean. Three(3) of the five(5) most visited countries(ominican
+Caribbean. Three(3) of the five(5) most visited countries(Dominican
 Republic,Jamaica, Cuba) in the region are just a few kilometers away
 from Haiti. The Dominican Republic, which shares the same island with
 Haiti, ranks first among these destinations. Both countries have
