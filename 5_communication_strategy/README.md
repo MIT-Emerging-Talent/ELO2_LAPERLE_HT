@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 -->
 # Communication Strategy
 
 Haiti Paradise: WhatsApp Campaign Strategy Document

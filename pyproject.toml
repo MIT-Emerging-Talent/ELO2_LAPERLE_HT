@@ -2,6 +2,6 @@
 exclude = [
     ".venv",
     "__pycache__",
-    "*.pyc",
-    "*.ipynb",
+    "**/*.ipynb",
 ]
+
