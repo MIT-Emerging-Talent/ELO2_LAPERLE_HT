@@ -1,7 +1,11 @@
 __pycache__
 *.pytest_cache
+<<<<<<< HEAD
 .venv/
 
+=======
+.env/
+>>>>>>> origin/main
 # .env
 *.db
 *.idea
