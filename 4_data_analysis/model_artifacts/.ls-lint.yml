@@ -8,12 +8,6 @@ ls:
   .csv: snake_case
   .py: snake_case
 
-  .:                       # Répertoires racine
-    .*/:
-      snakecase: true
-    ignore:
-      - 1_datasets/raw_data/**
-
 ignore:
   - .git
   - .github
@@ -21,25 +15,9 @@ ignore:
   - .ruff_cache
   - .pytest_cache
   - __pycache__
-<<<<<<< HEAD
   - .venv
   - **/site-packages/**
   - 1_datasets
   - data
   - dist
   - build
-
-rules:
-  some_rule: "true"   # string entre guillemets
-ignore:
-  - ".venv/"
-
-description: "Check code formatting: true/false"
-=======
-  - .ls-lint.yml
-  - .markdownlint.yml
-
-
-rules:
-  some_rule: "true"
->>>>>>> origin/main
