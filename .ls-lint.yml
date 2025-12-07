@@ -1,45 +1,37 @@
 ls:
-  .dir: snake_case
-  .*: snake_case
-  .md: snake_case | regex:[0-9A-Z\-]+
-  .txt: snake_case | kebab-case
-  .yml: snake_case | kebab-case
-  .ipynb: snake_case
-  .csv: snake_case
-  .py: snake_case
+  .dir: "snake_case"
+  .*: "snake_case"
+  .md: "snake_case | regex:[0-9A-Z\\-]+"
+  .txt: "snake_case | kebab-case"
+  .yml: "snake_case | kebab-case"
+  .ipynb: "snake_case"
+  .csv: "snake_case"
+  .py: "snake_case"
 
-  .:                       # Répertoires racine
+  .:  # Répertoires racine
     .*/:
-      snakecase: true
+      snakecase: ""
     ignore:
-      - 1_datasets/raw_data/**
+      - "1_datasets/raw_data/**"
 
 ignore:
-  - .git
-  - .github
-  - .vscode
-  - .ruff_cache
-  - .pytest_cache
-  - __pycache__
-<<<<<<< HEAD
-  - .venv
-  - **/site-packages/**
-  - 1_datasets
-  - data
-  - dist
-  - build
-
-rules:
-  some_rule: "true"   # string entre guillemets
-ignore:
-  - ".venv/"
-
-description: "Check code formatting: true/false"
-=======
-  - .ls-lint.yml
-  - .markdownlint.yml
-
+  - ".git"
+  - ".github"
+  - ".vscode"
+  - ".ruff_cache"
+  - ".pytest_cache"
+  - "__pycache__"
+  - ".venv"
+  - "**/site-packages/**"
+  - "1_datasets"
+  - "data"
+  - "dist"
+  - "build"
 
 rules:
   some_rule: "true"
->>>>>>> origin/main
+
+description:
+  - "Check code formatting: true/false"
+  - ".ls-lint.yml"
+  - ".markdownlint.yml"
