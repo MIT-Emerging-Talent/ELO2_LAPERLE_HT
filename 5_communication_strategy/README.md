@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Communication Strategy
 
 ## Sharing the Heart of Haiti
@@ -7,3 +8,5 @@ We'll use a powerful combo of quizzes, surveys,
 and polls to engage potential visitors and the diaspora, collecting insights
 on what excites them, their memories, and who they'd share it with. These tools
 keep things fun and interactive, building a community that celebrates Haiti
+=======
+>>>>>>> 4145986822f4994368876ff344a4f19ccd6d877c

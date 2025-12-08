@@ -1,0 +1,6 @@
+Type,name,Commune,Department,Region,GPS_Lat,GPS_Lon,Telephone,Email,Site_web,Ownership,Maturity,Notes,Included
+Aéroport,Toussaint Louverture International (PAP),Tabarre,Ouest,National,18.579964,-72.292542,+509 48 94 3000,info@aan.gouv.ht,https://aan.gouv.ht,Gouvernement haïtien,Opérationnel,Hub principal international,
+Aéroport,Cap-Haïtien International (CAP),Cap-Haïtien,Nord,Nord,19.7329,-72.1948,+509 22 62 05 07,,https://aan.gouv.ht,Gouvernement haïtien,Opérationnel,Accès principal au Nord,
+Aéroport,Antoine-Simon (CYA),Les Cayes,Sud,Sud,18.270833,-73.7875,,,,Gouvernement haïtien,Opérationnel,Aéroport régional Sud,
+Aéroport,Port-Salut (PAX),Port-Salut,Sud,Sud,18.064167,-73.912222,,,,Gouvernement haïtien,Opérationnel,Proche grottes Sud,
+Aéroport,Jérémie (JEE),Jérémie,Grand-Anse,Grand-Anse,18.65,-74.133333,,,,Gouvernement haïtien,Opérationnel,Accès Sud-Ouest,

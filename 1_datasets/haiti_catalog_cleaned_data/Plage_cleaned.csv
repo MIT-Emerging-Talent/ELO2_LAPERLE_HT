@@ -1,0 +1,17 @@
+Type,name,Commune,Department,Region,GPS_Lat,GPS_Lon,Telephone,Email,Site_web,Ownership,Maturity,Notes,Included
+Plage,Cormier Plage,Limonade,Nord,Nord,19.7498,-72.2296,+509 37 02 02 10,booking@cormierhaiti.com,,Mixte (hôtel/public),Opérationnel,Plage sable blanc, accès hôtel
+Plage,Labadie Beaches (Royal Caribbean),Labadie,Nord,Nord,19.785,-72.248,+1 800 933 2121,,https://royalcaribbean.com,Privé (Royal Caribbean),Opérationnel,Excursions croisières,
+Plage,Chouchou Baie,Port-Margot,Nord,Nord,19.702,-72.6,,,,Publique,Opérationnel,Baie isolée, snorkeling
+Plage,M&M Beach (Camp Louise),Acul-du-Nord,Nord,Nord,19.7,-72.65,+509 37 51 67 59,mmbeachresort@yahoo.fr,,Privé,Court terme,Resort plage,
+Plage,Plage de Limonade (historique),Limonade,Nord,Nord,19.65,-72.1,,,,Publique,Opérationnel,Site historique libération,
+Plage,Pilote Beach,Cap-Haïtien,Nord,Nord,19.76,-72.2,,,,Publique,Opérationnel,Plage locale,
+Plage,Cannon Beach,Labadie,Nord,Nord,19.78,-72.24,,,,Publique,Opérationnel,Proche Labadie,
+Plage,Bercy Beach,Cap-Haïtien,Nord,Nord,19.75,-72.22,,,,Publique,Moyen terme,Plage tranquille,
+Plage,Sainte-Suzanne Beach,Sainte-Suzanne,Nord,Nord,19.65,-72.1,,,,Publique,Opérationnel,Près pétroglyphes,
+Plage,Fort Saint-Michel Beach,Cap-Haïtien,Nord,Nord,19.77,-72.19,,,,Publique,Opérationnel,Site fortifié,
+Plage,,Limonade,,,19.75,-72.23,,booking@cormierhaiti.com,,,,, lagune turquoise
+Plage,,Labadie,,,19.783,-72.25,,,Prive/Publique,,,,
+Plage,,Labadie,,,19.783,-72.25,,info@dhaloobeach.com,https://royalcaribbean.com,,,, snorkeling
+Plage,,Port-Margot,,,19.7,-72.6,,,Publique,,,,
+Plage,,Acul-du-Nord,,,19.7,-72.65,,mmbeachresort@yahoo.fr,,,,, services
+Plage,,Limonade,,,19.65,-72.1,,,Publique,,,,
