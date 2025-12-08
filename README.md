@@ -134,9 +134,3 @@ Pierre Kenley MERVIL
 Kervens Hubert LOUIS
 
 Cliforde EXAEL
-
-## Why this project
-
-## Data Sources
-
-## Repository Structure
